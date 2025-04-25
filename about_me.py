@@ -1,0 +1,10 @@
+print("👋 Hello! Welcome to your first Python project.")
+name = input("What's your name? ")
+age = input("How old are you? ")
+color = input("What's your favorite color? ")
+hobby = input("What's something you love doing? ")
+
+print("\n--- Summary ---")
+print(f"Nice to meet you, {name}!")
+print(f"You're {age} years old, love the color {color}, and enjoy {hobby}.")
+print("You're awesome and you're officially a coder now! 🚀")
